@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: AzerothSpeed
+## Notes: Probe for a game-speed / timescale CVar or console command (/azspeed).
+## Author: you
+## Version: 0.1
+AzerothSpeed.lua
